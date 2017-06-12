@@ -1,1 +1,2 @@
 Something trival.
+user 2 adds 1
