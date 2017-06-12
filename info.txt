@@ -6,3 +6,4 @@ master add second line
 
 user 2 add a line
 
+user 1 adds
